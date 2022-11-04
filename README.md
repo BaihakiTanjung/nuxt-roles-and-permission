@@ -10,6 +10,9 @@ Installations
 1. `npm install` or `yarn install` if not working, `npm update` or `yarn update`
 2. `npm run dev` or `yarn dev`
 
+Backend Partner
+https://github.com/BaihakiTanjung/starter-template-laravel-hydra-repo
+
 
 
 
